@@ -22,7 +22,7 @@ def get_filters():
     while True:
         city = input('Which city would you like to check?\nChicago?\nNew York City?\nWashington?\n').lower()
         if city not in (CITY_DATA.keys()):
-            print(f'Sorry, "{city.title()}" is not a proper city, please input "Chicago", "New York City", or "Washington".')
+            print(f'we are Sorry, "{city.title()}" is not a proper city, please input "Chicago", "New York City", or "Washington".')
         else:
             break
 
