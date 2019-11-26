@@ -18,6 +18,5 @@ Udacity lessons and exercises
 Python documentation from python.org
 Pandas documentation from pandas.pydata.org
 GeeksforGeeks.org
-stackoverflow.com
 GitHub
 
