@@ -8,8 +8,16 @@ Date: 27/11/2019
 In this project, I utalize python to explore Bikeshare data in come citys in US through answer few Questions abouth that project
 
 ### Files used
-Include the files used
+bikeshare.py
+chicago.csv
+new_york_city.csv
+washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Udacity lessons and exercises
+Python documentation from python.org
+Pandas documentation from pandas.pydata.org
+GeeksforGeeks.org
+stackoverflow.com
+GitHub
 
