@@ -5,7 +5,7 @@ Date: 27/11/2019
  US Bikeshare data project
 
 ### Description
-Describe what your project is about and what it does
+In this project, I utalize python to explore Bikeshare data in come citys in US through answer few Questions abouth that project
 
 ### Files used
 Include the files used
